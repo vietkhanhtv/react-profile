@@ -28,7 +28,7 @@ function Header() {
       <header className={styles.header}>
         {IsNotMobile() && (
           <a href="#home" className={styles.title}>
-            <h1 className={styles}>Quoc Huy</h1>
+            <h1 className={styles}>Ho Viet Viet Khanh</h1>
           </a>
         )}
         <div className={styles.changeTheme}>
