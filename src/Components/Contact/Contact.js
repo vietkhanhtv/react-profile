@@ -11,7 +11,7 @@ function Contact() {
       <div className={styles.content}>
         <div className={styles.link__wrap}>
           <a
-            href="https://www.messenger.com/t/lqh.coder"
+            href="https://www.messenger.com/t/"
             className={styles.link__item}
           >
             <img
@@ -20,7 +20,7 @@ function Contact() {
               className={styles.link__img}
             />
           </a>
-          <a href="tel:+84775502724" className={styles.link__item}>
+          <a href="tel:+84824915082" className={styles.link__item}>
             <img
               src="img/call.png"
               alt="Messenger"
