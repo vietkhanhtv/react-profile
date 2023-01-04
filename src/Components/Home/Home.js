@@ -30,7 +30,7 @@ function Home() {
               <a href="" className={styles}></a>
             </div>
             <div className={styles.img__wrap}>
-              <img src="img/IMG_20221212_120823.jpg" alt="Me.jpg" className={styles.img} />
+              <img src="img/IMG_20221212_120823.jpg" alt="IMG_20221212_120823.jpg" className={styles.img} />
             </div>
           </div>
           {IsNotMobile() && (
