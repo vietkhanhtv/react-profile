@@ -23,7 +23,7 @@ function Home() {
           <div className={styles.column3}>
             <div className={styles.wrap}>
               {/* <p className={styles.greeting}>Hello, I'm</p> */}
-              <h2 className={styles.name}>Quoc Huy</h2>
+              <h2 className={styles.name}>Ho Viet Viet Khanh</h2>
               <h4 className={styles.desc}>PHP Developer</h4>
             </div>
             <div className={styles.btn__wrap}>
