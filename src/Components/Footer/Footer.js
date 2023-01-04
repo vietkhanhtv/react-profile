@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className={styles.footer}>
       <a href="#home" className={styles.title}>
-        Quoc Huy
+        Ho Viet Viet Khanh
       </a>
       <div className={styles.links__list}>
         <a href="#about" className={styles.links__item}>
@@ -20,7 +20,7 @@ function Footer() {
       </div>
       <div className={styles.socical__list}>
         <a
-          href="https://www.facebook.com/lqh.coder"
+          href="https://www.facebook.com/1"
           className={styles.social__item}
         >
           <img
@@ -30,7 +30,7 @@ function Footer() {
           />
         </a>
         <a
-          href="https://www.instagram.com/q.hi03/"
+          href="https://www.instagram.com/khanhsiu.cute_/"
           className={styles.social__item}
         >
           <img
@@ -40,7 +40,7 @@ function Footer() {
           />
         </a>
       </div>
-      <p className={styles.text}>© QuocHuyCoder. All rights reserved 2022</p>
+      <p className={styles.text}>© VietKhanhCoder. All rights reserved 2022</p>
     </footer>
   );
 }
