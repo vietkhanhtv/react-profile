@@ -12,7 +12,7 @@ function Projects() {
     js: [
   //Link vào
     ],
-    PHP: ["https://quochuy03.com/"],
+    PHP: ["https://vietkhanhdev.com/"],
   };
   const [modal, setModal] = useState(false);
   const [link, setLink] = useState();
