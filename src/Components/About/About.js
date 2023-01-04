@@ -10,7 +10,7 @@ function About() {
       </header>
       <div className={styles.wrap}>
         <p className={styles.content}>
-          Hi i'm Huy, a PHP Developer ( Fresher ) . I'm 18 year old and don't
+          Hi i'm Khánh, a PHP Developer ( Fresher ) . I'm 18 year old and don't
           have much experience in the industry 🤔. I really want to get the
           attention from the recruiters so I can do my favorite job 😄. If
           you're interested in this website, contact me by click on the Contact
