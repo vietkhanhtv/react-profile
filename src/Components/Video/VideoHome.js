@@ -18,6 +18,12 @@ function VideoHome() {
                 : `${styles.vid} ${styles.fadeOut}`
             }
         />
+         <video src={'vid/video3.gif'} autoPlay muted loop playsInline
+            className={active === 'video3'
+                ? `${styles.vid} ${styles.active}`
+                : `${styles.vid} ${styles.fadeOut}`
+            }
+        />
     </>
 }
 
