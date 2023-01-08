@@ -57,6 +57,13 @@ function Header() {
                 data-vid="video3"
               ></img>
             </li>
+          <li onClick={vidContext.handleVideo} className={styles.item}>
+              <img
+                src="img/bg-4.jpg"
+                className={styles.video__item}
+                data-vid="video4"
+              ></img>
+            </li>
           </ul>
         </div>
       </header>
