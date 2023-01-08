@@ -24,6 +24,12 @@ function VideoHome() {
                 : `${styles.vid} ${styles.fadeOut}`
             }
         />
+         <video src={'vid/video4.mp4'} autoPlay muted loop playsInline
+            className={active === 'video4'
+                ? `${styles.vid} ${styles.active}`
+                : `${styles.vid} ${styles.fadeOut}`
+            }
+        />
     </>
 }
 
