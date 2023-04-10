@@ -20,7 +20,7 @@ function Footer() {
       </div>
       <div className={styles.socical__list}>
         <a
-          href="https://www.facebook.com/1"
+          href="https://www.facebook.com/VietKhanh.User"
           className={styles.social__item}
         >
           <img
@@ -40,7 +40,7 @@ function Footer() {
           />
         </a>
       </div>
-      <p className={styles.text}>© VietKhanhCoder. All rights reserved 2022</p>
+      <p className={styles.text}>© VietKhanh. All rights reserved 2023</p>
     </footer>
   );
 }
