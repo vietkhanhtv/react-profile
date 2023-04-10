@@ -6,13 +6,9 @@ export const ModalContext = createContext();
 
 function Projects() {
   const links = {
-    html: [
-     //Link vào
-    ],
-    js: [
-  //Link vào
-    ],
-    PHP: ["https://vietkhanhdev.com/"],
+    html: ["tuoitrevn24h.ga"],
+    js: ["vietkhanhvn.ddns.net"],
+    PHP: [""],
   };
   const [modal, setModal] = useState(false);
   const [link, setLink] = useState();
