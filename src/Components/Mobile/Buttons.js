@@ -5,7 +5,7 @@ function Buttons() {
     return (
         <div className={styles.btn__section}>
             <div className={styles.btn__wrap}>
-                <a href="download/nguyenhai_cv.pdf" download className={styles.btn__download}>
+                <a href="./download/" download className={styles.btn__download}>
                     DOWNLOAD CV
                 </a>
             </div>
